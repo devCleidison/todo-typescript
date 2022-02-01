@@ -51,7 +51,7 @@ export const GlobalStyle = createGlobalStyle`
   .new-task-modal {
     max-width: 400px;
     width: 80%;
-    height: 50%;
+    min-height: 350px;
     
     border-radius: 0.5rem;
 
